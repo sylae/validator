@@ -1,14 +1,22 @@
 {
-    "name": "charlottedunois/validator",
+    "name": "sylae/validator",
+	"replace": {
+        "charlottedunois/validator": "self.version"
+    },
     "type": "library",
     "description": "PHP Validator for stuff.",
     "keywords": [ "validation" ],
-    "homepage": "https://github.com/CharlotteDunois/Validator",
+    "homepage": "https://github.com/sylae/Validator",
     "license": "Apache-2.0",
     "authors": [
         {
             "name": "Charlotte Dunois",
             "email": "github@charuru.moe"
+        },
+        {
+            "name": "Keira Dueck",
+            "email": "sylae@calref.net",
+            "role": "Maintainer"
         }
     ],
     "require": {
