@@ -1,4 +1,4 @@
-# Validator [![Build Status](https://scrutinizer-ci.com/g/CharlotteDunois/Validator/badges/build.png?b=master)](https://scrutinizer-ci.com/g/CharlotteDunois/Validator/build-status/master) [![Code Coverage](https://scrutinizer-ci.com/g/CharlotteDunois/Validator/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/CharlotteDunois/Validator/?branch=master)
+# Validator
 
 This is a PHP validator for stuff.
 
@@ -39,4 +39,4 @@ var_dump($fail->passes(), $fail->errors());
 ```
 
 # Documentation
-https://charlottedunois.github.io/Validator/
+https://sylae.github.io/Validator/
